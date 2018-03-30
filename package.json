@@ -1,5 +1,5 @@
 {
-  "name": "Bookhabit",
+  "name": "bookhabit",
   "version": "1.0.0",
   "description": "Keep track of all your books and make a habit out of reading!",
   "main": "gulpfile.js",
